@@ -1,94 +1,78 @@
-## Hi there 👋
 <!-- Profile Header -->
-Hi 👋, I am **Prince Gupta**  
-[LinkedIn](your-link-here) • [Email](mailto:your-email-here)
+<h1 align="center">⚛️ Prince Gupta</h1>
+<h3 align="center">Consistency Creates Mastery</h3>
 
-I am a Computer Science Engineering student passionate about **Software Development** and experienced in building small to medium-scale **Web Applications**. I am currently expanding my expertise in **Full-Stack Development (MERN)** and exploring emerging technologies. I also maintain a strong foundation in **C/C++ and DSA**.
+---
 
-🔭 **Currently working on:**  
-- **SODECA Exam Portal**, a client-level project expected to be used by **1000+ users**  
-- **Faculty Information Portal** for structured academic data management  
+## 👋 Hi, I'm Prince!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prince-gupta-8a285a328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Believeonyourself/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+
+  <a href="https://x.com/GuptaPrinc64712" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  </a>
+
+  <a href="mailto:princegupta8094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+I am a Computer Science Engineering student passionate about **Software Development** and experienced in building small-scale **Web Applications**. I am currently expanding my expertise in **Full-Stack Development** and exploring emerging technologies. I also hold a strong foundation in **C/C++** and **DSA**.
+
+💡 When I’m not coding, I enjoy working on digital products and exploring modern technologies.
 
 💼 **Experience:**  
 - Completed a **Web Development Internship at SKIT Jaipur**, gaining hands-on experience with real-world workflows, UI design, and web architecture.
 
-🎥 **Others:**  
-- When I am not coding, I enjoy creating useful digital tools and exploring tech content.
-
 ---
 
 ## 🏆 Achievements & Milestones  
-Since 2024–2025, I have been actively competing, learning, and engaging with the tech community:
+Since Aug 2024, I have been actively competing, learning, and engaging with the tech community:
 
-| Category | Count | Highlight |
-|---------|-------|-----------|
-| 🥇 Wins | 2 | **Winner at UDBHAV-2025 (National Level Exhibition)** & **3rd in Inter-College Coding Quiz** |
-| 🚀 Competitions | 6+ | Active participant in hackathons, quizzes & technical competitions |
-| 🎟️ Events | 2 | Bitcoin India Tour 2024 • Google Cloud Community Day 2025 |
-| 💼 Internships | 1 | Web Development Intern – SKIT Jaipur |
+| Type | Title/Name | Status/Role | Date/Duration |
+| :--- | :--- | :--- | :--- |
+| **Internship** | 🏢 KISTECHNOSOFTWARE | Full-Stack Development Intern | Jul 2025 – Aug 2025 |
+| **Competition** | 🥇 Smart India Hackathon | Qualified for internal round | Sept 2025 |
+| **Project Exhibition** | 🥇 UDBHAV 2025 (PIET Jaipur) | Presented our 2 projects | Oct 2025 |
+| **Competition** | 🥇 Make and Break (GDG on Campus, LNMIIT) | Developed a mindful dashboard | Nov 2025 |
+| **Coursework** | 📜 NPTEL – Programming in Java | Elite + Silver Medal | Jul 2025 – Oct 2025 |
+| **Currently Working** | Learning DSA | Attending contests | 2025 – Present |
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### **Backend & Database**  
-- Python  
-- Flask  
-- SQLite  
-- Jinja  
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ### **Frontend Development**  
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ### **Core CS Fundamentals**  
-- C  
-- C++  
-- Data Structures & Algorithms  
-- Git  
-
----
-
-## 📌 Pinned Projects
-
-### **1. SODECA Exam Portal (Active)**  
-A full online examination platform designed for large-scale use.  
-Tech: MERN (ongoing)
-
-### **2. SODECA Frontend**  
-Displays structured student and teacher information.  
-Tech: HTML, CSS, Bootstrap
-
-### **3. Simon Says Game**  
-A memory-based pattern game built using JavaScript.
-
----
-
-## 📫 Connect with Me  
-💬 Ask me about **Web Development, DSA, System Architecture, MERN, or Project Building**—I love discussing efficient and scalable solutions.
-
-- LinkedIn: your-link  
-- Email: your-email  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square?logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Data%20Structures-important?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 Thanks for visiting my profile!  
 Feel free to connect or collaborate 😊
-
-
-<!--
-**prince8094/prince8094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
