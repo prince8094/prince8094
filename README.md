@@ -1,108 +1,82 @@
 ## Hi there 👋
 <!-- Profile Header -->
-<h1 align="center">⚛️ Prince Gupta</h1>
-<h3 align="center">Consistency Creates Mastery</h3>
+Hi 👋, I am **Prince Gupta**  
+[LinkedIn](your-link-here) • [Email](mailto:your-email-here)
+
+I am a Computer Science Engineering student passionate about **Software Development** and experienced in building small to medium-scale **Web Applications**. I am currently expanding my expertise in **Full-Stack Development (MERN)** and exploring emerging technologies. I also maintain a strong foundation in **C/C++ and DSA**.
+
+🔭 **Currently working on:**  
+- **SODECA Exam Portal**, a client-level project expected to be used by **1000+ users**  
+- **Faculty Information Portal** for structured academic data management  
+
+💼 **Experience:**  
+- Completed a **Web Development Internship at SKIT Jaipur**, gaining hands-on experience with real-world workflows, UI design, and web architecture.
+
+🎥 **Others:**  
+- When I am not coding, I enjoy creating useful digital tools and exploring tech content.
 
 ---
 
-## 👋 Hi, I'm Prince!
-
-I am a **Computer Science Engineering student** passionate about building scalable and impactful software solutions.  
-I enjoy transforming ideas into real-world applications using clean architecture, efficient code, and strong fundamentals.
-
-I'm currently expanding my skills in **Full-Stack Development (MERN)** while maintaining a strong grasp on **C/C++ and DSA**.
-
-💡 When I’m not coding, I enjoy working on digital products and exploring modern technologies.
-
----
-
-## 🏆 Achievements & Milestones
-
-Since 2024–2025, I have been actively learning, building projects, and participating in competitions & events.
+## 🏆 Achievements & Milestones  
+Since 2024–2025, I have been actively competing, learning, and engaging with the tech community:
 
 | Category | Count | Highlight |
 |---------|-------|-----------|
-| 🥇 Wins | 2 | **Winner at UDBHAV-2025 (National Level Exhibition)** & **3rd place in Inter-College Coding Quiz** |
-| 🚀 Competitions | 6+ | Participated in hackathons, coding contests & technical quizzes |
-| 🎟️ Events | 2 | **Bitcoin India Tour 2024**, **Google Cloud Community Day 2025** |
-| 💼 Internships | 1 | Web Development Internship at **SKIT Jaipur** |
-
----
-
-## 🚀 Projects & Current Focus
-
-### 🔥 Major Projects
-- **SODECA Exam Portal** (Active)  
-  A large-scale online examination system to be used by **1000+ users**.
-
-- **SODECA Frontend**  
-  A structured portal displaying student & teacher data.
-
-- **Faculty Information Portal**  
-  A modern dashboard for institutional faculty data management.
-
-- **Simon Says Game**  
-  A memory-based pattern game built using JavaScript.
-
----
-
-## 🌱 What I'm Currently Working On
-- Building **SODECA Exam Portal** end-to-end  
-- Learning **MERN Stack** (MongoDB, Express.js, React, Node.js)  
-- Improving DSA problem-solving using **C/C++**  
-- Enhancing Frontend UI/UX with Bootstrap & JavaScript  
+| 🥇 Wins | 2 | **Winner at UDBHAV-2025 (National Level Exhibition)** & **3rd in Inter-College Coding Quiz** |
+| 🚀 Competitions | 6+ | Active participant in hackathons, quizzes & technical competitions |
+| 🎟️ Events | 2 | Bitcoin India Tour 2024 • Google Cloud Community Day 2025 |
+| 💼 Internships | 1 | Web Development Intern – SKIT Jaipur |
 
 ---
 
 ## 🛠️ Technical Stack
 
-### 🔧 Backend & Database  
-`Python` `Flask` `SQLite` `Jinja`
+### **Backend & Database**  
+- Python  
+- Flask  
+- SQLite  
+- Jinja  
 
-### 🎨 Frontend Development  
-`HTML5` `CSS3` `Bootstrap` `JavaScript`
+### **Frontend Development**  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
 
-### 🧠 Core CS Fundamentals  
-`C` `C++` `DSA` `Git`  
-
----
-
-## 📫 Connect With Me
-
-💬 Ask me about **Web Development, DSA, System Architecture, or Project Building** — I love discussing logical and efficient solutions.
-
-- 🔗 **LinkedIn:** _your-link-here_  
-- ✉️ **Email:** _your-email-here_  
-- 🐦 **X (Twitter):** _optional_
-
----
-
-## 📌 Featured Projects (Pinned)
-
-### 🔹 **SIMON-SAYS-GAME**  
-Pattern-based memory game built using JavaScript.  
-**Tech:** JavaScript
-
-### 🔹 **SODECA-FRONTEND**  
-Displays structured academic data in a clean UI.  
-**Tech:** HTML, CSS, Bootstrap
-
-### 🔹 **SODECA-EXAM PORTAL**  
-Full exam and user management system designed for large usage.  
-**Tech:** MERN (In Progress)
+### **Core CS Fundamentals**  
+- C  
+- C++  
+- Data Structures & Algorithms  
+- Git  
 
 ---
 
-## 📊 GitHub Contribution Activity  
-> _“Every green square is a step toward mastery.”_
+## 📌 Pinned Projects
 
-Your contribution graph will automatically show up once commits are pushed.
+### **1. SODECA Exam Portal (Active)**  
+A full online examination platform designed for large-scale use.  
+Tech: MERN (ongoing)
+
+### **2. SODECA Frontend**  
+Displays structured student and teacher information.  
+Tech: HTML, CSS, Bootstrap
+
+### **3. Simon Says Game**  
+A memory-based pattern game built using JavaScript.
 
 ---
 
-## ⭐ Final Note  
+## 📫 Connect with Me  
+💬 Ask me about **Web Development, DSA, System Architecture, MERN, or Project Building**—I love discussing efficient and scalable solutions.
+
+- LinkedIn: your-link  
+- Email: your-email  
+
+---
+
 Thanks for visiting my profile!  
-If you're working on something exciting or want to collaborate, feel free to connect 😊
+Feel free to connect or collaborate 😊
+
 
 <!--
 **prince8094/prince8094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
